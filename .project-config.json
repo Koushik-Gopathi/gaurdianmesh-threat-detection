@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/oG8YDV9MfAVQpTkcjf97vA.git",
+    "expiration": "2026-07-19T07:11:58.570Z",
+    "token": "art_v1_38e4713b9085fac6ff337d13f95d0fb82b273184?expires=1784445118",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "guardianmesh_threat_engine",
+  "path": "/home/ubuntu/guardianmesh_threat_engine",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "biYppV5i2cpwq3vAqgR5yX",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "ZhzPDWhadTQZTEa5GwMhg8",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Srinivas Reddy Enugala",
+    "OWNER_OPEN_ID": "FCPtMpNHddCsTNYHauwiFT",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "90c40d43-f335-4033-9299-12408eaec222",
+    "VITE_APP_ID": "oG8YDV9MfAVQpTkcjf97vA",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "GuardianMesh Threat Analysis Engine",
+    "VITE_FRONTEND_FORGE_API_KEY": "FgacDavyQwXZBvBKQsJESs",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
